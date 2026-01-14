@@ -7,7 +7,7 @@ I build tools for machine learning operations and open-source infrastructure. Be
 ## What I'm working on
 
 - 🔧 **[ZenML](https://github.com/zenml-io/zenml)** — Open-source MLOps framework for reproducible pipelines
-- 📊 **[LLMOps Database](https://www.zenml.io/llmops-database)** — 500+ real-world production LLM case studies
+- 📊 **[LLMOps Database](https://www.zenml.io/llmops-database)** — 1500+ real-world production LLM case studies
 - 🌍 **[awesome-balochi-nlp](https://github.com/strickvl/awesome-balochi-nlp)** — NLP resources for an underserved language
 
 ## Published author
