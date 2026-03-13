@@ -21,5 +21,4 @@ I build tools for machine learning operations and open-source infrastructure. Be
 
 ## Writing
 
-- 📝 **[MLOps.systems](https://mlops.systems)** — Technical writing on ML infrastructure
 - 🌐 **[alexstrick.com](https://www.alexstrick.com)** — Longer-form essays and reflections
